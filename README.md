@@ -1,10 +1,13 @@
 # Jupiter Pro · Redesign Concept (v7 Vision)
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-solana--redesign.vercel.app-00F0FF?style=for-the-badge&logo=vercel)](https://solana-redesign.vercel.app)
 [![Build & Typecheck](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/rishiiicreates/solana-jupiter-redesign)
 [![Bounty Target](https://img.shields.io/badge/Superteam%20India-1%2C500%20USDC-purple)](https://earn.superteam.fun)
 [![Solana Ecosystem](https://img.shields.io/badge/Solana-DeFi-14F195)](https://solana.com)
 
 > An award-ready submission for the **Superteam India: "Redesign Your Favourite App on Solana"** bounty ($1,500 USDC / ~₹126,000 INR).
+> 
+> **Live Deployed Prototype:** [https://solana-redesign.vercel.app](https://solana-redesign.vercel.app)
 
 ---
 

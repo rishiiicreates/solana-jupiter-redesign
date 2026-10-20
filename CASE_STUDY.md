@@ -4,6 +4,7 @@
 **Deliverable:** Complete interactive web application + Architectural case study  
 **Reward Pool:** 1,500 USDC  
 **Repository:** [github.com/rishiiicreates/solana-jupiter-redesign](https://github.com/rishiiicreates/solana-jupiter-redesign)  
+**Live Application:** [solana-redesign.vercel.app](https://solana-redesign.vercel.app)  
 **Payout Address (EVM / Solana):** `0x3028C30B8c8985Bd54669BC313Fe7950fCeB1142`
 
 ---
